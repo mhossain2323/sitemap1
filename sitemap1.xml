@@ -1,0 +1,37 @@
+Newsprokash24  Breaking News Bangladesh World
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://newsprokash24.blogspot.com/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Prokash 24</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2024-06-27T12:00:00+00:00</news:publication_date>
+      <news:title>Newsprokash24  Breaking News Bangladesh World
+</news:title>
+      <news:keywords>breaking news, current news bd,, current news of world, breaking news now uk, breaking news now kenya, breaking news now world top news today in the world, top news today usa, news today usa, world breaking news just in, world breaking news headlines
+</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://newsprokash24.blogspot.com/2024/06/violent-clashes-erupt-between.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Prokash 24</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2024-06-27T14:30:00+00:00</news:publication_date>
+      <news:title>Kenya protests 2024</news:title>
+      <news:keywords>breaking news, current news bd,, current news of world, breaking news now uk, breaking news now kenya, breaking news now world top news today in the world, top news today usa, news today usa, world breaking news just in, world breaking news headlines
+</news:keywords>
+    </news:news>
+  </url>
+  <!-- Add more URLs as needed -->
+</urlset>
+
